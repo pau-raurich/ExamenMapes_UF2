@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamenMapes_UF2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
